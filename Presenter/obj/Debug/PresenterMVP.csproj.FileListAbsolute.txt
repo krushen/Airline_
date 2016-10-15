@@ -1,0 +1,21 @@
+C:\Users\Student\Google Drive\Lab_4\MPVAirport\MVPAirport\Presenter\obj\Debug\PresenterMVP.csprojResolveAssemblyReference.cache
+C:\Users\Student\Google Drive\Lab_4\MPVAirport\MVPAirport\Presenter\bin\Debug\Presenter.dll
+C:\Users\Student\Google Drive\Lab_4\MPVAirport\MVPAirport\Presenter\bin\Debug\Presenter.pdb
+C:\Users\Student\Google Drive\Lab_4\MPVAirport\MVPAirport\Presenter\bin\Debug\Model.dll
+C:\Users\Student\Google Drive\Lab_4\MPVAirport\MVPAirport\Presenter\bin\Debug\Model.pdb
+C:\Users\Student\Google Drive\Lab_4\MPVAirport\MVPAirport\Presenter\obj\Debug\Presenter.dll
+C:\Users\Student\Google Drive\Lab_4\MPVAirport\MVPAirport\Presenter\obj\Debug\Presenter.pdb
+D:\c#\course_C#\HomeWork\Airline_3\MPVAirport\MVPAirport\Presenter\bin\Debug\Presenter.dll
+D:\c#\course_C#\HomeWork\Airline_3\MPVAirport\MVPAirport\Presenter\bin\Debug\Presenter.pdb
+D:\c#\course_C#\HomeWork\Airline_3\MPVAirport\MVPAirport\Presenter\bin\Debug\Model.dll
+D:\c#\course_C#\HomeWork\Airline_3\MPVAirport\MVPAirport\Presenter\bin\Debug\Model.pdb
+D:\c#\course_C#\HomeWork\Airline_3\MPVAirport\MVPAirport\Presenter\obj\Debug\PresenterMVP.csprojResolveAssemblyReference.cache
+D:\c#\course_C#\HomeWork\Airline_3\MPVAirport\MVPAirport\Presenter\obj\Debug\Presenter.dll
+D:\c#\course_C#\HomeWork\Airline_3\MPVAirport\MVPAirport\Presenter\obj\Debug\Presenter.pdb
+C:\Users\yura\Google Диск\HomeWork\Airline4_MVP\MPVAirport\MVPAirport\Presenter\bin\Debug\Presenter.dll
+C:\Users\yura\Google Диск\HomeWork\Airline4_MVP\MPVAirport\MVPAirport\Presenter\bin\Debug\Presenter.pdb
+C:\Users\yura\Google Диск\HomeWork\Airline4_MVP\MPVAirport\MVPAirport\Presenter\bin\Debug\Model.dll
+C:\Users\yura\Google Диск\HomeWork\Airline4_MVP\MPVAirport\MVPAirport\Presenter\bin\Debug\Model.pdb
+C:\Users\yura\Google Диск\HomeWork\Airline4_MVP\MPVAirport\MVPAirport\Presenter\obj\Debug\PresenterMVP.csprojResolveAssemblyReference.cache
+C:\Users\yura\Google Диск\HomeWork\Airline4_MVP\MPVAirport\MVPAirport\Presenter\obj\Debug\Presenter.dll
+C:\Users\yura\Google Диск\HomeWork\Airline4_MVP\MPVAirport\MVPAirport\Presenter\obj\Debug\Presenter.pdb

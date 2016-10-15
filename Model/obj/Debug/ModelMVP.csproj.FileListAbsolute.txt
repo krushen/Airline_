@@ -1,0 +1,15 @@
+C:\Users\Student\Google Drive\Lab_4\MPVAirport\MVPAirport\Model\bin\Debug\Model.dll
+C:\Users\Student\Google Drive\Lab_4\MPVAirport\MVPAirport\Model\bin\Debug\Model.pdb
+C:\Users\Student\Google Drive\Lab_4\MPVAirport\MVPAirport\Model\obj\Debug\ModelMVP.csprojResolveAssemblyReference.cache
+C:\Users\Student\Google Drive\Lab_4\MPVAirport\MVPAirport\Model\obj\Debug\Model.dll
+C:\Users\Student\Google Drive\Lab_4\MPVAirport\MVPAirport\Model\obj\Debug\Model.pdb
+D:\c#\course_C#\HomeWork\Airline_3\MPVAirport\MVPAirport\Model\bin\Debug\Model.dll
+D:\c#\course_C#\HomeWork\Airline_3\MPVAirport\MVPAirport\Model\bin\Debug\Model.pdb
+D:\c#\course_C#\HomeWork\Airline_3\MPVAirport\MVPAirport\Model\obj\Debug\ModelMVP.csprojResolveAssemblyReference.cache
+D:\c#\course_C#\HomeWork\Airline_3\MPVAirport\MVPAirport\Model\obj\Debug\Model.dll
+D:\c#\course_C#\HomeWork\Airline_3\MPVAirport\MVPAirport\Model\obj\Debug\Model.pdb
+C:\Users\yura\Google Диск\HomeWork\Airline4_MVP\MPVAirport\MVPAirport\Model\bin\Debug\Model.dll
+C:\Users\yura\Google Диск\HomeWork\Airline4_MVP\MPVAirport\MVPAirport\Model\bin\Debug\Model.pdb
+C:\Users\yura\Google Диск\HomeWork\Airline4_MVP\MPVAirport\MVPAirport\Model\obj\Debug\ModelMVP.csprojResolveAssemblyReference.cache
+C:\Users\yura\Google Диск\HomeWork\Airline4_MVP\MPVAirport\MVPAirport\Model\obj\Debug\Model.dll
+C:\Users\yura\Google Диск\HomeWork\Airline4_MVP\MPVAirport\MVPAirport\Model\obj\Debug\Model.pdb
